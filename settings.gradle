@@ -1,0 +1,2 @@
+rootProject.name='GithubViewer-Android'
+include ':app'
